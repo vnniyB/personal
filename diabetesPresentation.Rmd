@@ -5,39 +5,25 @@ date: "Tuesday, September 23, 2014"
 output: ioslides_presentation
 ---
 
-## R Markdown
-
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
-
-## Slide with Bullets
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-## Slide with R Code and Output
-
-```{r}
-summary(cars)
-```
-
-## Slide with Plot
-
-```{r, echo=FALSE}
-plot(cars)
-```
-
+-------------------------------------
 ## Diabetes?
 - History of Insulin & Diabetes
 - What is Insulin?
 - What is Diabetes?
-
-## History
-- Diabetes has been recoginized as a distinct medical condition for at least 3500 years. The Egyptians 
+------------------------------------
+# History
+## Diabetes
+- Symptoms of Diabetes mellitus were first described 3000 years ago by the Egyptians. 
+- The term "Diabetes" was first coined by Araetus of Cappodocia (81-133AD), a Greek physician which literally means "a passer through; a siphon" but with the intention of meaning excessive urination. 
+- The word "diabetes" is first recorded in English, in the form diabete, in a medical text written around 1425.
+- The word mellitus (honey sweet) was added by Thomas Willis (Britain) in 1675 after rediscovering the sweetness of urine and blood of patients - The sweet taste had been noticed in urine by the ancient Greeks, Chinese, Egyptians, Indians, and Persians.....
+- It was only in 1776 that Dobson (Britain) firstly confirmed the presence of excess sugar in urine and blood as a cause of their sweetness. 
+- The term "Diabetes mellitus" essentially means sweet excessive urination.
+## Insulin
 - It was initially discovered in 1920 after nearly 60 years of studying the metabolic purpose of the pancreas in dogs. in 1889 when the pancreas of a dog was removed and flies were observed feeding on the dogs urine.
 -
+
+--------------------------------
 
 
 ## What is Insulin?
@@ -49,4 +35,6 @@ plot(cars)
 ![Insulin action - Glucose absorption](http://www.betacell.org/services/fetch/name/3VWQYCA2.jpg)
 ![Healthy/Type1/Type2 Comparison](http://thumbs.dreamstime.com/z/insulin-action-diabetes-types-27081201.jpg)
 
+
+--------------------------------
 
