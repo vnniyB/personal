@@ -24,7 +24,14 @@ output: ioslides_presentation
 - The term "Diabetes mellitus" essentially means sweet excessive urination.
 
 ## Insulin
-- It was initially discovered in 1920 after nearly 60 years of studying the metabolic purpose of the pancreas in dogs. in 1889 when the pancreas of a dog was removed and flies were observed feeding on the dogs urine.
+- 1889 the pancreas of a dog was removed and flies were observed feeding on the dogs urine.
+- 1920 At this time the only way to control diabetes was to have a diet low in cabohydrate and sugar, and high in protein and fat. Instead of dying shortly after diagonosis, This would allow diabetics to live for roughly a year.
+- 1921 Fluid from the pancreas of healthy dogs was injected into dogs with their pancreas removed. Restoring the dogs to a healthy state.
+- 1922 A relively pure form of insulin was extracted from the pancreas of cattle from slaughterhouses and injected into a diabetic teenager in Toronto hospital. Whose health improved dramatically.
+- 1923 Banting and Macleod recieved the Nobel Prize in medicine for this work. The university of Toronoto gave pharmaceutical companies licence to produce insulin free of royalties.
+- 1924 Insulin became widely available around the world.
+- 1926 Insulin is one of the first proteins to have its structure studied via Xray crytallography.
+- 1955 Insulin becomes the first protein to be fully sequenced by Frederick Sanger.
 
 
 ---
