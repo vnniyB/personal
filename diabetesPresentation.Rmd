@@ -1,0 +1,52 @@
+---
+title: "Diabetes"
+author: "Vincent Borgers"
+date: "Tuesday, September 23, 2014"
+output: ioslides_presentation
+---
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Code and Output
+
+```{r}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+## Diabetes?
+- History of Insulin & Diabetes
+- What is Insulin?
+- What is Diabetes?
+
+## History
+- Diabetes has been recoginized as a distinct medical condition for at least 3500 years. The Egyptians 
+- It was initially discovered in 1920 after nearly 60 years of studying the metabolic purpose of the pancreas in dogs. in 1889 when the pancreas of a dog was removed and flies were observed feeding on the dogs urine.
+-
+
+
+## What is Insulin?
+
+- Insulin is a hormone produced by the beta cell in the pancreas of animals.
+- It regulates blood sugar by promoting absorption of glucose from the blood stream into muscles, organs and fat tissue.
+![Insulin Structure](http://classconnection.s3.amazonaws.com/350/flashcards/1059350/jpg/image00331354543194575.jpg)
+![Beta Cell - Insulin release](http://www.betacell.org/services/fetch/name/gp0Lb2qn.jpg)
+![Insulin action - Glucose absorption](http://www.betacell.org/services/fetch/name/3VWQYCA2.jpg)
+![Healthy/Type1/Type2 Comparison](http://thumbs.dreamstime.com/z/insulin-action-diabetes-types-27081201.jpg)
+
+
