@@ -5,12 +5,14 @@ date: "Tuesday, September 23, 2014"
 output: ioslides_presentation
 ---
 
--------------------------------------
+---
 ## Diabetes?
 - History of Insulin & Diabetes
 - What is Insulin?
 - What is Diabetes?
-------------------------------------
+
+------------
+
 # History
 ## Diabetes
 - Symptoms of Diabetes mellitus were first described 3000 years ago by the Egyptians. 
