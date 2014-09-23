@@ -11,9 +11,10 @@ output: ioslides_presentation
 - What is Insulin?
 - What is Diabetes?
 
-------------
+---
 
 # History
+
 ## Diabetes
 - Symptoms of Diabetes mellitus were first described 3000 years ago by the Egyptians. 
 - The term "Diabetes" was first coined by Araetus of Cappodocia (81-133AD), a Greek physician which literally means "a passer through; a siphon" but with the intention of meaning excessive urination. 
@@ -21,22 +22,22 @@ output: ioslides_presentation
 - The word mellitus (honey sweet) was added by Thomas Willis (Britain) in 1675 after rediscovering the sweetness of urine and blood of patients - The sweet taste had been noticed in urine by the ancient Greeks, Chinese, Egyptians, Indians, and Persians.....
 - It was only in 1776 that Dobson (Britain) firstly confirmed the presence of excess sugar in urine and blood as a cause of their sweetness. 
 - The term "Diabetes mellitus" essentially means sweet excessive urination.
+
 ## Insulin
 - It was initially discovered in 1920 after nearly 60 years of studying the metabolic purpose of the pancreas in dogs. in 1889 when the pancreas of a dog was removed and flies were observed feeding on the dogs urine.
--
 
---------------------------------
+
+---
 
 
 ## What is Insulin?
 
 - Insulin is a hormone produced by the beta cell in the pancreas of animals.
 - It regulates blood sugar by promoting absorption of glucose from the blood stream into muscles, organs and fat tissue.
-![Insulin Structure](http://classconnection.s3.amazonaws.com/350/flashcards/1059350/jpg/image00331354543194575.jpg)
-![Beta Cell - Insulin release](http://www.betacell.org/services/fetch/name/gp0Lb2qn.jpg)
+![Insulin Structure](C:/repos/github/personal/insulinStructure.jpg)
+![Beta Cell - Insulin release]("http://www.betacell.org/services/fetch/name/gp0Lb2qn.jpg")
 ![Insulin action - Glucose absorption](http://www.betacell.org/services/fetch/name/3VWQYCA2.jpg)
 ![Healthy/Type1/Type2 Comparison](http://thumbs.dreamstime.com/z/insulin-action-diabetes-types-27081201.jpg)
-
-
---------------------------------
+ 
+---
 
