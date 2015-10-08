@@ -3,6 +3,8 @@ personal
 
 vinnyScripts
 
-``` bash 
+``` Shell 
 help 
+$ echo "Hello world"
+
 ```
