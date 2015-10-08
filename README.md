@@ -2,3 +2,7 @@ personal
 ========
 
 vinnyScripts
+
+``` bash 
+help 
+```
