@@ -3,7 +3,7 @@ personal
 
 vinnyScripts
 
-``` Shell 
+``` bash 
 [hrtvxb@biopvm201 kakapo]$ docker build -t kakapotestlee - < Dockerfile
 Sending build context to Docker daemon  2.56 kB
 Sending build context to Docker daemon
